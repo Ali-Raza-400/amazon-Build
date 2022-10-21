@@ -9,7 +9,7 @@ const ProductFeeds = ({ products }) => {
         <Product
           id={id}
           title={title}
-          description={description}
+          description={description} 
           category={category}
           image={image}
           price={price}
